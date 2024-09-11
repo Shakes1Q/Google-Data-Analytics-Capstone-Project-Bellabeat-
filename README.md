@@ -50,6 +50,9 @@ The chart shows people work out or train on average on Wednesday & Saturday and 
 
 
 
+![Preview of Clean Data]
+
+
 
 
 

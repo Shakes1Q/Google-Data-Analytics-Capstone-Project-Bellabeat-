@@ -34,6 +34,9 @@ In this step, It's time to clean the data to get it ready for analysis. With the
 * I created a subset and selected only the columns I needed to use; id, activity_date, total_steps,	total_distance,	very_active_minutes, fairly_active_minutes, lightly_active_minutes, sedentary_minutes,	calories, day_of_week, n_day_of_week, activity_level
 * Take Note of the empty null data, duplicate data
 
+Here is a preview of some of the cleaned data to give a better idea of how it looks 
+Charts/1st clean_data.png
+
 
 
 

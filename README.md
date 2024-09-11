@@ -38,6 +38,13 @@ Here is a preview of some of the cleaned data to give a better idea of how it lo
 
 ![Preview of Clean Data](https://github.com/Shakes1Q/Google-Data-Analytics-Capstone-Project-Bellabeat-/blob/33a0dc04db7fc320e1a5d3542eb9ca782debc5cf/Charts/1st%20clean_data.png)
 
+## Analyze
+The most exciting phase of the process is the analysis. This is the phase where I answer the questions that need to be address. My analysis was done using Jupyter and the code was in Python. All of the charts are made in Python too.
+
+
+<p>What are some trends in smart device usage?</p>
+
+
 
 
 

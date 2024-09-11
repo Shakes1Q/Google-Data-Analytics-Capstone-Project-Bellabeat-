@@ -46,11 +46,15 @@ The most exciting phase of the process is the analysis. This is the phase where 
 
 ![Preview of Clean Data](https://github.com/Shakes1Q/Google-Data-Analytics-Capstone-Project-Bellabeat-/blob/8c0a95671aaa9f487678069dbf2435cda5fdedee/Charts/2nd_trend_chart.png)
 
-The chart shows people work out or train on average on Wednesday & Saturday and train less on average on Wednesday.
+The chart above shows people work out or train on average on Wednesday & Saturday and train less on average on Wednesday.
+
+![Preview of Clean Data](https://github.com/Shakes1Q/Google-Data-Analytics-Capstone-Project-Bellabeat-/blob/de62c179dbfa12e519540e40c849acfa1007ce39/Charts/3rd_trend_chart.png)
+
+The chart above shows people who are very active in total steps burn more calories.
 
 
 
-![Preview of Clean Data]
+
 
 
 

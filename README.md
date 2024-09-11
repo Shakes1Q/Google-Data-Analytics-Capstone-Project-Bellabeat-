@@ -44,6 +44,15 @@ The most exciting phase of the process is the analysis. This is the phase where 
 
 <p>What are some trends in smart device usage?</p>
 
+![Preview of Clean Data](https://github.com/Shakes1Q/Google-Data-Analytics-Capstone-Project-Bellabeat-/blob/8c0a95671aaa9f487678069dbf2435cda5fdedee/Charts/2nd_trend_chart.png)
+
+The chart shows people work out or train on average on Wednesday & Saturday and train less on average on Wednesday.
+
+
+
+
+
+
 
 
 

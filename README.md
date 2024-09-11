@@ -54,6 +54,12 @@ The chart above shows people who are very active in total steps burn more calori
 
 <p>How could these trends apply to Bellabeat customers?</p>
 
+![Preview of Clean Data](https://github.com/Shakes1Q/Google-Data-Analytics-Capstone-Project-Bellabeat-/blob/f715b63660ac3a495eea9907943a45e24cc0e571/Charts/4th_improve_customers.png)
+
+The chart above shows a large percentage of sedentary people (spend much time seated, somewhat inactive) and very less fairly or active people. We could suggest or implement a break time interval that helps sedentary people be fairly active which later transform to Very active.
+
+
+
 
 
 

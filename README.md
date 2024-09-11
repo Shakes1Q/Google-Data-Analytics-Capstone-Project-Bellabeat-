@@ -35,7 +35,8 @@ In this step, It's time to clean the data to get it ready for analysis. With the
 * Take Note of the empty null data, duplicate data
 
 Here is a preview of some of the cleaned data to give a better idea of how it looks 
-Charts/1st clean_data.png
+
+https://github.com/Shakes1Q/Google-Data-Analytics-Capstone-Project-Bellabeat-/blob/33a0dc04db7fc320e1a5d3542eb9ca782debc5cf/Charts/1st%20clean_data.png
 
 
 

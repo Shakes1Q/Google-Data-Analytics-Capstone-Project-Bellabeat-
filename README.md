@@ -58,6 +58,9 @@ The chart above shows people who are very active in total steps burn more calori
 
 The chart above shows a large percentage of sedentary people (spend much time seated, somewhat inactive) and very less fairly or active people. We could suggest or implement a break time interval that helps sedentary people be fairly active which later transform to Very active.
 
+<p>How could these trends help influence Bellabeat's marketing strategy?</p>
+
+
 
 
 

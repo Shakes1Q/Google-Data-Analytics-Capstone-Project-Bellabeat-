@@ -52,6 +52,10 @@ The chart above shows people work out or train on average on Wednesday & Saturda
 
 The chart above shows people who are very active in total steps burn more calories.
 
+<p>How could these trends apply to Bellabeat customers?</p>
+
+
+
 
 
 
